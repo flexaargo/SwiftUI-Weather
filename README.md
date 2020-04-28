@@ -10,7 +10,7 @@ Now that I'm a bit more of a mature iOS developer (since I have been working pro
 
 ## Screenshots
 
-<img src="./screenshots/screenshot1.png" alt="screenshot1" style="zoom: 25%;" /> <img src="/Users/alexfargo/Developer/iOS/Weather/Weather/screenshots/screencap1.gif" alt="screencap1" style="zoom: 47%;" />
+<img src="./screenshots/screenshot1.png" alt="screenshot1" style="zoom: 25%;" height="600" /> <img src="./screenshots/screencap1.gif" alt="screencap1" style="zoom: 47%;" height="600" />
 
 ## What I Learned
 
